@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raparthi</h1>
 <h3 align="center">Experienced software engineer , full-stack developer currently pursuing a Masters in Computer Science at Texas A&M University. Passionate about Backend Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraparthi&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraparthi" /> </p>
-
 - 📫 How to reach me **raparthiabhishek12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
